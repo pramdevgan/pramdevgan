@@ -30,8 +30,10 @@
 
 I’m currently learning ReactJs. <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pramdevgan)](https://github.com/pramdevgan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramdevgan&layout=compact)](https://github.com/pramdevgan)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramdevgan&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramdevgan&layout=compact)](https://github.com/pramdevgan/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pramdevgan)](https://github.com/pramdevgan/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=github-readme-stats)](https://github.com/pramdevgan/github-readme-stats)
 
 📫 How to reach me: [Twitter - @ParmDevgan5](https://twitter.com/intent/user?screen_name=ParmDevgan5) , [LinkedIn - @pramatma-vishwakarma](https://www.linkedin.com/in/pramatma-vishwakarma/)
 
