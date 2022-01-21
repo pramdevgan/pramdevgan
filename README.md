@@ -1,4 +1,5 @@
 ## 👋 Hey, I'm Param Vishwakarma
+
 <a href="https://twitter.com/intent/user?screen_name=ParmDevgan5">
   <img align="left" alt="Pramatma Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -14,9 +15,11 @@
 <a href="https://instagram.com/pram_vishwakarma/">
   <img align="left" alt="Pramatma Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 <br>
 
-**Languages and Tools:**  
+**Languages and Tools:**
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
