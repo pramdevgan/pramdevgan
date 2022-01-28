@@ -34,7 +34,7 @@
 I’m currently learning ReactJs. <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramdevgan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)](https://github.com/pramdevgan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=12)](https://github.com/pramdevgan/main/README.md)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pramdevgan)](https://wakatime.com/@pramdevgan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=DSA-with-JavaScript)](https://github.com/pramdevgan/DSA-with-JavaScript)
 
