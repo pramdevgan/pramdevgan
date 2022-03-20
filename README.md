@@ -36,6 +36,7 @@ I’m currently learning ReactJs. <code><img height="22" src="https://raw.github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramdevgan&layout=compact)](https://ionicabizau.github.io/github-profile-languages/api.html?pramdevgan)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pramdevgan)](https://wakatime.com/@pramdevgan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=DSA-with-JavaScript)](https://github.com/pramdevgan/DSA-with-JavaScript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Web-Design-for-Everybody--Basic-of--Web-Developemt---Coding)](https://github.com/pramdevgan/Web-Design-for-Everybody--Basic-of--Web-Developemt---Coding)
 
 📫 How to reach me: [Twitter - @ParmDevgan5](https://twitter.com/intent/user?screen_name=ParmDevgan5) , [LinkedIn - @pramatma-vishwakarma](https://www.linkedin.com/in/pramatma-vishwakarma/)
 
