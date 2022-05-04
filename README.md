@@ -1,4 +1,7 @@
 ## <div align="center">👋 Hey, I'm Param Vishwakarma </div>
+### <div align="center">Lovely Professional University, Punjab, India</div>
+
+<div align="center">
 <a href="https://twitter.com/intent/user?screen_name=ParmDevgan5">
   <img align="left" alt="Pramatma Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -14,7 +17,8 @@
 <a href="https://instagram.com/pram_vishwakarma/">
   <img align="left" alt="Pramatma Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br>
+</br>
+</div>
 
 
 ***<div align="center">Languages and Tools:</div>***
