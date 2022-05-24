@@ -38,7 +38,6 @@ I’m currently learning ReactJs. <code><img height="22" src="https://raw.github
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pramdevgan&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramdevgan&layout=compact)](https://ionicabizau.github.io/github-profile-languages/api.html?pramdevgan)
-
 <img align="left" alt="Pramatma Instagram" width="450px" src="https://wakatime.com/share/@pramdevgan/9095fef2-03d2-4525-a545-4a9aab98b2c4.svg" />
 <img align="right" alt="Pramatma Instagram" width="450px" src="https://wakatime.com/share/@pramdevgan/89080ab3-73e9-47c0-808f-d2a4aebb3fbe.svg" />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=DSA-with-JavaScript)](https://github.com/pramdevgan/DSA-with-JavaScript)
