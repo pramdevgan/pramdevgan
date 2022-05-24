@@ -36,9 +36,10 @@
 
 I’m currently learning ReactJs. <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramdevgan&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pramdevgan&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramdevgan&layout=compact)](https://ionicabizau.github.io/github-profile-languages/api.html?pramdevgan)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pramdevgan)](https://wakatime.com/@pramdevgan)
+![](https://wakatime.com/share/@pramdevgan/9095fef2-03d2-4525-a545-4a9aab98b2c4.svg)
+![](https://wakatime.com/share/@pramdevgan/89080ab3-73e9-47c0-808f-d2a4aebb3fbe.svg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=DSA-with-JavaScript)](https://github.com/pramdevgan/DSA-with-JavaScript)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Web-Design-for-Everybody--Basic-of--Web-Developemt---Coding)](https://github.com/pramdevgan/Web-Design-for-Everybody--Basic-of--Web-Developemt---Coding)
 
