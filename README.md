@@ -42,11 +42,11 @@ I’m currently learning ReactJs. <code><img height="22" src="https://raw.github
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=DSA-with-JavaScript)](https://github.com/pramdevgan/DSA-with-JavaScript)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Web-Design-for-Everybody--Basic-of--Web-Developemt---Coding)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=DSA-with-JavaScript)](https://github.com/pramdevgan/picture-in-picture)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=DSA-with-JavaScript)](https://github.com/pramdevgan/Python-Specialization)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=DSA-with-JavaScript)](https://github.com/pramdevgan/resturent-and-food)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=DSA-with-JavaScript)](https://github.com/pramdevgan/Infinite-Scroll)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=DSA-with-JavaScript)](https://github.com/pramdevgan/quote-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=picture in picture)](https://github.com/pramdevgan/picture-in-picture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Python Specialization)](https://github.com/pramdevgan/Python-Specialization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Restaurent and Food)](https://github.com/pramdevgan/resturent-and-food)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Infinite Scroll)](https://github.com/pramdevgan/Infinite-Scroll)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Quote Generator)](https://github.com/pramdevgan/quote-generator)
 
 📫 How to reach me: [Twitter - @ParmDevgan5](https://twitter.com/intent/user?screen_name=ParmDevgan5) , [LinkedIn - @pramatma-vishwakarma](https://www.linkedin.com/in/pramatma-vishwakarma/)
 
