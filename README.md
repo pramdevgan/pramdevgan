@@ -36,7 +36,8 @@
 
 I’m currently learning ReactJs. <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pramdevgan&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pramdevgan&show_icons=true&theme=radical) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+![Profile View Counter](https://komarev.com/ghpvc/?username=pramdevgan)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramdevgan&layout=compact)](https://ionicabizau.github.io/github-profile-languages/api.html?pramdevgan)
 
