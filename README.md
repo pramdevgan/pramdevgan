@@ -1,7 +1,6 @@
 ## <div align="center">👋 Hey, I'm Param Vishwakarma </div>
 ### <div align="center">Lovely Professional University, Punjab, India</div>
 
-<div align="center">
 <a href="https://twitter.com/intent/user?screen_name=ParmDevgan5">
   <img align="left" alt="Pramatma Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,8 +17,6 @@
   <img align="left" alt="Pramatma Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </br>
-</div>
-
 
 ***<div align="center">Languages and Tools:</div>***
 
@@ -36,16 +33,15 @@
 
 I’m currently learning ReactJs. <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pramdevgan&show_icons=true&theme=radical) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![Profile View Counter](https://komarev.com/ghpvc/?username=pramdevgan)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pramdevgan&show_icons=true&theme=radical) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramdevgan&layout=compact)](https://ionicabizau.github.io/github-profile-languages/api.html?pramdevgan)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Web-Design-for-Everybody--Basic-of--Web-Developemt---Coding)](https://github.com/pramdevgan/Web-Design-for-Everybody--Basic-of--Web-Developemt---Coding)
+<br>
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Web-Design-for-Everybody--Basic-of--Web-Developemt---Coding)](https://github.com/pramdevgan/Web-Design-for-Everybody--Basic-of--Web-Developemt---Coding) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=DSA-with-JavaScript)](https://github.com/pramdevgan/DSA-with-JavaScript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Picture-in-Picture)](https://github.com/pramdevgan/picture-in-picture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Picture-in-Picture)](https://github.com/pramdevgan/picture-in-picture)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Python-Specialization)](https://github.com/pramdevgan/Python-Specialization)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Quote-Generator)](https://github.com/pramdevgan/quote-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramdevgan&repo=Quote-Generator)](https://github.com/pramdevgan/quote-generator)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 📫 How to reach me: [Twitter - @ParmDevgan5](https://twitter.com/intent/user?screen_name=ParmDevgan5) , [LinkedIn - @pramatma-vishwakarma](https://www.linkedin.com/in/pramatma-vishwakarma/)
 
